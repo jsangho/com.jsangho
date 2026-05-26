@@ -15,6 +15,7 @@
 1. **`docs/README.md`를 읽는다** — 작업 경로(`frontend/`, `backend/` 등)에 맞는 규칙 문서 경로를 확인한다.
 2. **해당 규칙 MD를 Read한다** — 예:
    - Backend: `docs/DevOps/Backend/BACKEND_RULES.md`
+   - Backend 엔티티·테이블: `docs/DevOps/Backend/ENTITY_RULE.md`
    - Frontend: `docs/DevOps/Frontend/REACT_RULES.md`
 3. **규칙에 맞춰 구현한다** — `docs/`에 없는 패턴을 추측으로 도입하지 않는다.
 4. 규칙이 없거나 요구와 충돌하면 **구현을 멈추고** 사용자에게 확인한다.
